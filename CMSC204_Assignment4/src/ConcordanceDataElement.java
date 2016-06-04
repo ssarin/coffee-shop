@@ -1,7 +1,6 @@
 /**Assignment 4
  * 
- * Write a program that creates a concordance.
- * There will be two ways to create a concordance.
+ * Write a program that creates a concordance. There will be two ways to create a concordance.
  * The first requires a document to be read from an input file, and the concordance data is written to an output file.
  * The second reads the input from a string and returns an ArrayList of strings that represent the concordance of the string.
  * 
