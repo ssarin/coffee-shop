@@ -1,6 +1,6 @@
-/**Program on password entry with exception handling 
+/**Program on password entry with exception handling
  * Surtej Sarin, Professor Alexander, CMSC204-30941, 2/3/2016
- * ----
+ * 
  * @author	Surtej
  * 
  */
